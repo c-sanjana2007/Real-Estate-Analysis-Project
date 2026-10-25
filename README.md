@@ -1,6 +1,7 @@
 # Real-Estate-Analysis-Project | Power BI
 Real Estate Sales & Performance Dashboard
 
+<img width="1340" height="742" alt="Real Estate Performance Dashboard" src="https://github.com/user-attachments/assets/e6f5e3aa-04f8-401b-a769-45f059d1abc0" />
 📌 Project Overview
 
 The Real Estate Sales & Performance Dashboard is an interactive data analytics project developed using Microsoft Power BI to analyze real estate sales performance, revenue generation, target achievement, and property distribution across different projects.
@@ -232,3 +233,4 @@ Enhance the dashboard with further drill-through and tooltip functionality.
 Project Name: Real Estate Sales & Performance Dashboard
 Tool: Microsoft Power BI Desktop
 Project Type: Data Analytics and Business Intelligence
+
