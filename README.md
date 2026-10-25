@@ -220,17 +220,6 @@ Performance Monitoring
 
 Interactive Reporting
 
-🚀 Future Enhancements
-
-Add time-based sales and revenue trend analysis.
-
-Include additional project-level performance metrics.
-
-Develop more detailed geographical analysis.
-
-Enhance the dashboard with further drill-through and tooltip functionality.
-
-Project Name: Real Estate Sales & Performance Dashboard
 Tool: Microsoft Power BI Desktop
 Project Type: Data Analytics and Business Intelligence
 
